@@ -1,0 +1,6 @@
+node_modules/
+
+log.txt
+article.txt
+
+.DS_Store
