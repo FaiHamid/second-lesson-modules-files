@@ -1,0 +1,33 @@
+{
+  "type": "module",
+  "name": "second-lesson-modules-files",
+  "version": "1.0.0",
+  "description": "In this homework you need to prepare a Node.js project with basic tooling and complete several small file system tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "index": "node src/index.js",
+    "task1": "node src/task1.js",
+    "task2": "node src/task2.js",
+    "task3": "node src/task3.js",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xorrim/second-lesson-modules-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xorrim/second-lesson-modules-files/issues"
+  },
+  "homepage": "https://github.com/Xorrim/second-lesson-modules-files#readme",
+  "devDependencies": {
+    "eslint": "^10.2.0",
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.2"
+  }
+}

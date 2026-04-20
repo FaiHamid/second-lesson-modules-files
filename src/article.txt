@@ -1,0 +1,1 @@
+This is a txt file for NodeJS homework.Contains some text for NodeJS operations;
